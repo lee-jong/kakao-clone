@@ -1,0 +1,24 @@
+.find .find__options{
+    background-color:  #eeeeee;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+
+.find__options .find__option{
+    display: flex;
+    flex-direction:  column;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 5px;
+}
+
+.find__option i{
+    margin-bottom:  15px;
+}
+
+.find__option span{
+    font-size: 12px;
+}
